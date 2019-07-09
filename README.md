@@ -72,3 +72,14 @@ When you're all finished, write a `README` file detailing all steps required to 
 # Contributing
 
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+
+# How to Run the application.
+
+* Download/Clone all the files from Github.
+* Extract them from the zip to a destination of your choice.
+* Click on index.html.
+* Jasmin will show the tests carried out and the results of the tests.
+
+# Extra Test
+
+* No extra tests have been added only what was asked for in the Development Strategy.
