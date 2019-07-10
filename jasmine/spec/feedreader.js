@@ -96,8 +96,8 @@ $(function() {
       });
     });
 
-    it('feed has more than 0 entries', function() {
-      expect($('.entry .feed')).toBeDefined();
+    it('feed has at least 1 entry', function() {
+      expect($('.feed .entry').length).toBeGreaterThan(0);
     });
   });
 
